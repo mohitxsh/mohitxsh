@@ -2,8 +2,6 @@
 
 There is the land where I build awesome projects and share with the world.
 
-I'm learning building tools and AST recently.
-
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
